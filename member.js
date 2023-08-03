@@ -1,0 +1,42 @@
+function skillsMember() {
+    var skills = document.getElementById("skills");
+    var skillsMember = document.getElementById("skillsMember");
+    var member = document.getElementById("member");
+    var memberMember = document.getElementById("memberMember");
+    var memberMember2 = document.getElementById("memberMember2");
+    var memberMember3 = document.getElementById("memberMember3");
+    var memberMember4 = document.getElementById("memberMember4");
+    var memberMember5 = document.getElementById("memberMember5");
+    var memberMember6 = document.getElementById("memberMember6");
+    var memberMember7 = document.getElementById("memberMember7");
+    var memberMember8 = document.getElementById("memberMember8");
+    var memberMember9 = document.getElementById("memberMember9");
+    var memberMember10 = document.getElementById("memberMember10");
+    var memberMember11 = document.getElementById("memberMember11");
+    var memberMember12 = document.getElementById("memberMember12");
+    var memberMember13 = document.getElementById("memberMember13");
+    var memberMember14 = document.getElementById("memberMember14");
+    var memberMember15 = document.getElementById("memberMember15");
+    var memberMember16 = document.getElementById("memberMember16");
+    var memberMember17 = document.getElementById("memberMember17");
+    var memberMember18 = document.getElementById("memberMember18");
+    var memberMember19 = document.getElementById("memberMember19");
+    var memberMember20 = document.getElementById("memberMember20");
+    var memberMember21 = document.getElementById("memberMember21");
+    var memberMember22 = document.getElementById("memberMember22");
+    var memberMember23 = document.getElementById("memberMember23");
+    var memberMember24 = document.getElementById("memberMember24");
+    var memberMember25 = document.getElementById("memberMember25");
+    var memberMember26 = document.getElementById("memberMember26");
+    var memberMember27 = document.getElementById("memberMember27");
+    var memberMember28 = document.getElementById("memberMember28");
+    var memberMember29 = document.getElementById("memberMember29");
+    var memberMember30 = document.getElementById("memberMember30");
+    var memberMember31 = document.getElementById("memberMember31");
+    var memberMember32 = document.getElementById("memberMember32");
+    var memberMember33 = document.getElementById("memberMember33");
+    var memberMember34 = document.getElementById("memberMember34");
+    var memberMember35 = document.getElementById("memberMember35");
+    var memberMember36 = document.getElementById("memberMember36");
+    var member
+
